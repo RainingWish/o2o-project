@@ -1,1 +1,11 @@
 o2o project Day3
+
+1.continue create class in eclipse and table in mysql
+2.Maven setting
+3.SSM setting
+4.create xml files for Dao and checking Dao
+5.update jar files for mysql 8.0
+6.checking Sevice
+7.checking Controller
+
+mainly connect mysql database with project in eclipse
