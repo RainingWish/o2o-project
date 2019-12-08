@@ -1,0 +1,8 @@
+Working on o2o project day4
+
+1.crete logback xml and keeping recording log data in Debug.log, Info.log, and Error.log
+2.each day will auto pacage the log file into a yyyy-MM-dd form zip file
+3.the max value of zip file is 30 (after 30 days will automtically cover)
+4.check the server output log data and auto save the log file
+5.create insert shop function on Dao(connected to database)
+6.create update shop function on Dao(connected to database)
