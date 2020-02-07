@@ -1,0 +1,2 @@
+Add DES crypto to encode and decode MySQL database account and password in jdbc properties file
+More security and more safty :)
